@@ -11,3 +11,5 @@
 3.Model -> We are using the data list of popular locations returned by the Foursquare API, to create an observable array of "new Location()"
 4. ViewModel -> The ViewModel has the location filtering functionality and binds the Model(Observables) and the View(Declarative Bindings)
 5. View -> The HTML has declarative bindings which use the ViewModel properties as their data source.
+
+#[Demo](http://mohammed88.github.io/p5/)
